@@ -1,0 +1,7 @@
+[
+null,
+null,
+{"id":2,"expanded":false,"name":"メイン画面","order":2,"parentId":0,"scrollX":415,"scrollY":326.5},
+{"id":3,"expanded":true,"name":"エンドリスト","order":1,"parentId":0,"scrollX":415,"scrollY":326.5},
+{"id":4,"expanded":false,"name":"イベントテスト","order":3,"parentId":0,"scrollX":415,"scrollY":326.5}
+]
